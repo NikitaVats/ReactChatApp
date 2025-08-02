@@ -21,7 +21,7 @@
 }
 
 .message-input:focus {
-  border-color: #667eea;
+  border-color: #4facfe;
 }
 
 .message-input:disabled {
@@ -32,7 +32,7 @@
 
 .send-button {
   padding: 12px 24px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
   color: white;
   border: none;
   border-radius: 25px;
@@ -45,7 +45,7 @@
 
 .send-button:hover:not(:disabled) {
   transform: translateY(-1px);
-  box-shadow: 0 4px 8px rgba(102, 126, 234, 0.3);
+  box-shadow: 0 4px 8px rgba(79, 172, 254, 0.3);
 }
 
 .send-button:disabled {
