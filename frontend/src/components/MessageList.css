@@ -16,7 +16,7 @@
 
 .own-message {
   align-self: flex-end;
-  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%);
   color: white;
 }
 
@@ -49,8 +49,8 @@
 
 .system-message {
   align-self: center;
-  background: #e8f4fd;
-  color: #0066cc;
+  background: #ffe6f0;
+  color: #d63384;
   padding: 8px 16px;
   border-radius: 12px;
   font-size: 0.9rem;
